@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="ApplicationName">PhysicalActivityClient</string>
+    <string name="OnCreateString">onCreate()</string>
+    <string name="OnDestroyString">onDestroy()</string>
+    <string name="OnReceiveString">onReceive()</string>
+    <string name="PhysicalActivityClientActivityString">PhysicalActivityClientActivity</string>
+    <string name="PhysicalActivityClientServiceString">PhysicalActivityClientService</string>
+    <string name="SetTextToTextViewString">fi.vtt.physicalactivityclient.SET_TEXT_TO_TEXTVIEW</string>
+	<string name="StatusString">Status: Physical activity detection started</string>
+	<string name="StopPhysicalActivityClientServiceString">fi.vtt.physicalactivityclient.STOP_PHYSICALACTIVITYCLIENTSERVICE</string>
+	<string name="StoppingRecognitionString">Stopping recognition&#8230;</string>
+	<string name="TextViewTextString">TextViewText</string>
+
+</resources>
